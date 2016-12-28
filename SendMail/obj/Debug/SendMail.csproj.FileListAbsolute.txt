@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\bin\Debug\SendMail.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\bin\Debug\SendMail.exe
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\bin\Debug\SendMail.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\bin\Debug\MaterialSkin.dll
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.exe
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.pdb
+c:\users\dell\documents\visual studio 2013\Projects\SendMail\SendMail\obj\Debug\SendMail.Form1.resources
