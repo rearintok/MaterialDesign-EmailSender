@@ -9,6 +9,7 @@ To put it simply, when you send a message to a friend using a mail client, it's 
 ![what is smtp](https://cloud.githubusercontent.com/assets/24621701/21529683/894e85ac-cd3b-11e6-8d76-fb9ddf32a4bf.png)
 
 Fore more information 
+
 http://www.serversmtp.com/en/what-is-smtp
 
 http://fr.wikipedia.org/wiki/SMTP
